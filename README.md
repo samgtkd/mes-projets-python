@@ -3,58 +3,59 @@
 Bienvenue sur mon portfolio de projets Python.  
 Tous les projets ont été développés sous Google Colab avec une attention particulière portée à l’analyse de données, la modélisation prédictive et la visualisation.
 
-📫 Me contacter : [LinkedIn](https:www.linkedin.com/in/sam-junior-okara) • samokara47@gmail.com
+📬 Me contacter : [LinkedIn](https://www.linkedin.com/in/sam-junior-okara) • samokara47@gmail.com
 
 ---
 
 ## 🧠 Projets réalisés :
 
-### 1. 🛒 **Client 360 Retail – Modélisation KPI & Optimisation de marge**
+### 1. 🛒 **Client 360 Retail – Modélisation KPI & Optimisation de marge**  
 > Modélisation de performances commerciales multi-pays et recommandations d’optimisation.
 
-📂 [Voir le projet](./Client%20360%20Retail%20–%20Modélisation%20KPI%20&%20Optimisation%20de%20la%20marge%20pour%205%20pays%20d'Afrique.zip)
+📂 [Voir le projet](https://drive.google.com/file/d/1he7iUuQv1AbPzBYTzEPocQ222aefJe0g/view?usp=sharing)
 
 ---
 
-### 2. 🔐 **Détection de transaction frauduleuse**
+### 2. 🔐 **Détection de transaction frauduleuse**  
 > Classification de transactions bancaires à l’aide d’algorithmes de machine learning supervisé.
 
-📂 [Voir le projet](./DETECTION%20DE%20TRANSACTION%20FRAUDULEUSE.zip)
+📂 [Voir le projet](https://drive.google.com/file/d/1i1riSpv4vaVTmFJhILKWqYBFsx7ykUVE/view?usp=sharing)
 
 ---
 
-### 3. 🚗 **Modèle de prédiction de souscription à une assurance auto**
+### 3. 🚗 **Modèle de prédiction de souscription à une assurance auto**  
 > Segmentation et scoring de clients à partir de données comportementales.
 
-📂 [Voir le projet](./Modèle%20de%20prédiction%20de%20souscription%20à%20une%20assurance%20auto.zip)
+📂 [Voir le projet](https://drive.google.com/file/d/1cG20xk6ftHAOhCZuILWhouyD23b4k3ms/view?usp=sharing)
 
 ---
 
-### 4. 🏘️ **Prédiction de prix immobiliers**
+### 4. 🏘️ **Prédiction de prix immobiliers**  
 > Régression multivariée pour estimer le prix de biens immobiliers à partir de caractéristiques diverses.
 
-📂 [Voir le projet](./PREDICTION%20DE%20PRIX%20IMMOBILIERS.zip)
+📂 [Voir le projet](https://drive.google.com/file/d/1A5if0ZHIoUW8_swrVrsNdZaz_t0m8CFD/view?usp=sharing)
 
 ---
 
-### 5. 💳 **Score de crédit**
-> Construction d’un modèle de scoring pour évaluer la solvabilité de clients.
+### 5. 💳 **Scoring de crédit**  
+> Évaluation de la solvabilité des clients à partir de leur historique de crédit.
 
-📂 [Voir le projet](./SCORE%20DE%20CREDIT.zip)
-
----
-
-### 6. 🧮 **Segmentation client B2B et stratégies commerciales**
-> Clustering de clients professionnels et recommandations stratégiques.
-
-📂 [Voir le projet](./Segmentation%20Client%20et%20Optimisation%20des%20Stratégies%20Commerciales%20pour%20les%20Grossistes.zip)
+📂 [Voir le projet](https://drive.google.com/file/d/1QocgMFkML01kVElU8kc5XcDZem17dxbm/view?usp=sharing)
 
 ---
 
-### 7. 📊 **Tableau de bord d’inclusion financière**
-> Visualisation de données socio-économiques et recommandations politiques.
+### 6. 🛍️ **Segmentation client & optimisation des stratégies commerciales**  
+> Clustering de clients et recommandations marketing pour les grossistes.
 
-📂 [Voir le projet](./Tableau%20de%20bord%20d'inclusion%20financière%20et%20recommandations%20stratégiques.zip)
+📂 [Voir le projet](https://drive.google.com/file/d/1pdRN-6DztvYVqvqyaX0VZ-MuIpPZnJWr/view?usp=sharing)
+
+---
+
+### 7. 📊 **Tableau de bord inclusion financière & recommandations stratégiques**  
+> Analyse de données financières avec tableau de bord interactif et axes d’amélioration.
+
+📂 [Voir le projet](https://drive.google.com/file/d/1csZOqSc-_GP6ShNbhj2aCTfp0t2extvD/view?usp=sharing)
+
 
 ---
 
